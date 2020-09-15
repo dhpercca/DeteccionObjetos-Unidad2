@@ -28,8 +28,8 @@ https://pjreddie.com/media/files/papers/YOLOv3.pdf
 
 
 ### Implementar YOLOv3
-  $git clone https://github.com/DavidReveloLuna/YoloV3_video.git
-  
+  $git clone https://github.com/dhpercca/DeteccionObjetos-Unidad2.git
+
 Descargar los siguientes archivos y copiarlos en la carpeta weights
 
 ### Download weights for vanilla YOLOv3
